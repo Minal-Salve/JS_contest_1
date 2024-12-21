@@ -47,3 +47,9 @@ function concatenateArray() {
   const concatenatedArray = arr.concat(newArr);
   console.log(concatenatedArray);
 }
+
+PrintDeveloperbyMap();
+PrintDeveloperbyForEach();
+addData();
+removeAdmin();
+concatenateArray();
